@@ -1,0 +1,53 @@
+.body-m{
+    background-color: black;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+.bt{
+    background-color: rgb(100, 100, 235); 
+    border: none;
+}
+.ap{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.bt-1{
+    background-color:rebeccapurple;
+    border: none;
+}
+.bt-2{
+    background-color: rgb(18, 197, 27);
+    border:none;
+}
+.ap-1{
+    color: black;
+    text-decoration: none;
+}
+.body-1{
+    background-image: url("i11.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.head-1{
+    color: white;
+}
+.head-2{
+    color:black;
+}
+.l1{
+    color: white;
+}
+.l2{
+    color:black;
+}
+.body-2{
+    background-image: url("i-12.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.class{
+    margin-left: 20px;
+    width:35px;
+}
